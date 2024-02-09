@@ -21,7 +21,7 @@ List the main features of the project.
 - Store workout data in the browser using local storage API.
 - On the page load, read the saved data from local storage and display.
 
-## Project Demo
+## ProjectDemo
 
 (https://github.com/NamrataChandarana/Javascript-projects/assets/108812525/fdb031d0-cca1-4391-a296-0efa6d50c1b6)
 
