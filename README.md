@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Project Demo](#projectDemo)
 - [Contributing](#contributing)
 
 ## Introduction
